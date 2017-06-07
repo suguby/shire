@@ -14,7 +14,7 @@ with codecs.open('requirements.txt', 'r', 'utf-8') as f:
 
 setup(
     name='shire',
-    version='0.2.0',
+    version='0.2.1',
     description='Heavy-job queue processor',
     long_description=long_description,
     author='Suguby',

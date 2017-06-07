@@ -1,4 +1,4 @@
-peewee<2.10,>=2.9
+peewee<2.11,>=2.10
 redis
 click<7,>=6
 setproctitle<1.2,>=1.1
